@@ -6,6 +6,10 @@ h1{
     background-color:red;
     width:200px;
   height:25px;
-  margin:auto;
-/*they finally gave us margin auto instructions!*/
+  margin: 10px auto;
+/*they finally gave us margin auto instructions!
+
+also with margin the first one if theres only two gives you top and bottom, 
+fka sub and dom hehehe. the one after gives side to side
+*/
   }
