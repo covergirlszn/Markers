@@ -14,3 +14,5 @@ or the higher the level of c in cmyk the less blue. it makes sense tbh because c
 
 - a bit obvioujs but the rgb level in css is very much  a function because it takes values and makes something new out of it... cute
 
+-While the red and blue markers look the same, the green one is much lighter than it was before. This is because the green color keyword is actually a darker shade, and is about halfway between black and the maximum value for green.
+
