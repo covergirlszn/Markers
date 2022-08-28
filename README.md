@@ -12,3 +12,5 @@ i think that's quite cool tbh but what is additive and subtractive. so the highe
 
 or the higher the level of c in cmyk the less blue. it makes sense tbh because cyan is the blue and green, the magenta is red and blue but red and green is yellow, light wise. i need to check how cmyk works!!
 
+- a bit obvioujs but the rgb level in css is very much  a function because it takes values and makes something new out of it... cute
+
