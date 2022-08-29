@@ -25,6 +25,9 @@ donc. to make rose par exemple, c'est red and magenta. red is 255,00, magenta is
 alors rose is 255 0 and 127?
 
 yessir :)
+
+oh also if you want to give a class specific values, ie marker rose. then don't use spaces. as in if you want it to have the characteristics of both marker and another class then specify both classes in html then in the css say
+".marker.rose" 
 ________________________________________________________
 
 
