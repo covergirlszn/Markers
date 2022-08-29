@@ -21,3 +21,11 @@ fun fact, rgb(255,127,0) gives you orange. that's mixing a secondary colour with
 
 the average of those would give you orange, fka 255, 127, 0.... 127 is half of 255, if you round up ofc
 
+donc. to make rose par exemple, c'est red and magenta. red is 255,00, magenta is 255,0,255
+alors rose is 255 0 and 127?
+
+yessir :)
+________________________________________________________
+
+
+

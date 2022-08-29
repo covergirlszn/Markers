@@ -25,8 +25,16 @@ fka sub and dom hehehe. the one after gives side to side
     background-color: rgb(0,255,255);
   }
 
+  .marker.rose{
+    background-color: rgb(255,0,127);
+    height: fit-content;
+  }
+
+  /*SO TO COMBINE CLASSES OR BE VERY SPECIFIC DON'T USE SPACEBAR*/
+
+
 .container{
-    background-color:rgb(0,0,0);
+    background-color:#ffffff;
     padding:10px 0px;
 /*where there are only two? up down for the first, left anna right for the next value*/
   }
