@@ -28,6 +28,10 @@ yessir :)
 
 oh also if you want to give a class specific values, ie marker rose. then don't use spaces. as in if you want it to have the characteristics of both marker and another class then specify both classes in html then in the css say
 ".marker.rose" 
+
+ This contrast can be distracting if it's overused on a website, and can make text hard to read if it's placed on a complementary-colored background.
+
+It's better practice to choose one color as the dominant color, and use its complementary color as an accent to bring attention to certain content on the page.
 ________________________________________________________
 
 
