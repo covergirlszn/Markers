@@ -32,7 +32,13 @@ oh also if you want to give a class specific values, ie marker rose. then don't 
  This contrast can be distracting if it's overused on a website, and can make text hard to read if it's placed on a complementary-colored background.
 
 It's better practice to choose one color as the dominant color, and use its complementary color as an accent to bring attention to certain content on the page.
+
+i think you know how hexadecimal works btw. ff for max, 00 for min, 10 is 16 and 1a is 26 because 10+16 is 26
+abcdef and stuff xx
 ________________________________________________________
 
+technically the same day but hsl is very interesting
 
+  background-color: hsl(240, 100%, 50%);
 
+so this is the same as #0000ff.....the 240 is blue blue, experiment later s'il vous plait
