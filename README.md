@@ -42,3 +42,4 @@ technically the same day but hsl is very interesting
   background-color: hsl(240, 100%, 50%);
 
 so this is the same as #0000ff.....the 240 is blue blue, experiment later s'il vous plait
+note: go back to task 48, gradient is next girl!!
