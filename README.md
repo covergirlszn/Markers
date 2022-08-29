@@ -15,4 +15,9 @@ or the higher the level of c in cmyk the less blue. it makes sense tbh because c
 - a bit obvioujs but the rgb level in css is very much  a function because it takes values and makes something new out of it... cute
 
 -While the red and blue markers look the same, the green one is much lighter than it was before. This is because the green color keyword is actually a darker shade, and is about halfway between black and the maximum value for green.
+____________________________________________________________
+
+fun fact, rgb(255,127,0) gives you orange. that's mixing a secondary colour with a primary colour. it makes sense kinda because red and yellow make orange and redd is 255 0 0 and yellow is 255 255 0.
+
+the average of those would give you orange, fka 255, 127, 0.... 127 is half of 255, if you round up ofc
 
