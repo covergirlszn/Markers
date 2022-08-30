@@ -43,3 +43,12 @@ technically the same day but hsl is very interesting
 
 so this is the same as #0000ff.....the 240 is blue blue, experiment later s'il vous plait
 note: go back to task 48, gradient is next girl!!
+
+okay so with hsl, hue is like a 360 degrees circle and 0 is red, 120 is green and 240 is blue.
+then saturation, 0 is grey and 100% is pure colour. 
+then lightness on 0 means black and 100 is white??? but 50 is standard
+
+gradient!!
+
+linear-gradient(gradientDirection, color1, color2, ...);
+it works like this bro
