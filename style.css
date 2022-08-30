@@ -30,6 +30,10 @@ fka sub and dom hehehe. the one after gives side to side
     height: fit-content;
   }
 
+  .gradient2{
+    background: linear-gradient(90deg,rgb(139, 139, 255) 60%,white);
+  }
+
   .gradient{ 
     background: linear-gradient(90deg,rgb(255, 57, 136),white,rgb(197, 46, 234));
   }

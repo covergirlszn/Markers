@@ -51,4 +51,6 @@ then lightness on 0 means black and 100 is white??? but 50 is standard
 gradient!!
 
 linear-gradient(gradientDirection, color1, color2, ...);
-it works like this bro
+it works like this bro. but you can also take multiple colour arguments.
+
+you can also add positioning fi move the gradient
