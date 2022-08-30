@@ -30,6 +30,10 @@ fka sub and dom hehehe. the one after gives side to side
     height: fit-content;
   }
 
+  .grad{
+    background: linear-gradient(90deg,pink,white);
+  }
+
   /*SO TO COMBINE CLASSES OR BE VERY SPECIFIC DON'T USE SPACEBAR*/
 
 
