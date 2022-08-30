@@ -54,3 +54,5 @@ linear-gradient(gradientDirection, color1, color2, ...);
 it works like this bro. but you can also take multiple colour arguments.
 
 you can also add positioning fi move the gradient
+
+i think i want to stick at 72 tho for a review because we just started sleeve?
