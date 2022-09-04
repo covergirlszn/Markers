@@ -65,4 +65,5 @@ fun fact!
   the default display property for div elements is block. So when two block elements are next to each other, they stack like actual blocks
 
 which is why when you put in the cap it took out the slleve xx i hope this mek sense
+as in the two elements dem a block and next to each other and so them a stack 
 
