@@ -56,3 +56,8 @@ it works like this bro. but you can also take multiple colour arguments.
 you can also add positioning fi move the gradient
 
 i think i want to stick at 72 tho for a review because we just started sleeve?
+___________________________________________________________________
+
+right so opacity....it takes percentages or decimal
+or jyust use rgba and the alpha value gives the opacity. 0 being lowest
+
