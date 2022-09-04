@@ -61,3 +61,8 @@ ___________________________________________________________________
 right so opacity....it takes percentages or decimal
 or jyust use rgba and the alpha value gives the opacity. 0 being lowest
 
+fun fact!
+  the default display property for div elements is block. So when two block elements are next to each other, they stack like actual blocks
+
+which is why when you put in the cap it took out the slleve xx i hope this mek sense
+
