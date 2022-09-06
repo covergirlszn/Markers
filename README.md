@@ -77,3 +77,8 @@ note to self? review cpbm and the effect of changing a border to a margin xx
 
 do you even read to nderstand??
 
+The box-shadow property lets you apply one or more shadows around an element. Here is basic syntax:
+
+    box-shadow: offsetx offsety shadow;
+
+
