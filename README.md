@@ -67,3 +67,9 @@ fun fact!
 which is why when you put in the cap it took out the slleve xx i hope this mek sense
 as in the two elements dem a block and next to each other and so them a stack 
 
+_____________________________________-
+oh right so the cap was 60 but because it was block
+____________________________________________________
+
+when you make a borer ensure you do solid first so it comes out and you're not confused
+
