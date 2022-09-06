@@ -75,3 +75,5 @@ when you make a borer ensure you do solid first so it comes out and you're not c
 
 note to self? review cpbm and the effect of changing a border to a margin xx
 
+do you even read to nderstand??
+
