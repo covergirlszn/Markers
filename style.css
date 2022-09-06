@@ -53,7 +53,11 @@ fka sub and dom hehehe. the one after gives side to side
     /* border-left-width: 10px;
     border-left-style:solid; set a colour so it's not black xx
 
-    better still.....do the below because it works as width style color fi border*/
+    better still.....do the below because it works as width style color fi border
+    remember where the border is too, on the left side of the sleeve. 
+    thats why that part a black and dem a shift the marker, because it's not padding.
+     which i assume gives you something different
+    */
 
     border-left: 10px solid blue;
   }
