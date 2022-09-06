@@ -50,8 +50,12 @@ fka sub and dom hehehe. the one after gives side to side
     width: 110px;
     height: 25px;
     background-color: rgba(255,255,255,0.5);
-    border-left-width: 10px;
-    border-left-style:solid; /*set a colour so it's not black xx*/
+    /* border-left-width: 10px;
+    border-left-style:solid; set a colour so it's not black xx
+
+    better still.....do the below because it works as width style color fi border*/
+
+    border left:10px solid blue;
   }
 
   .cap{
